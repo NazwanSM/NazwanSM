@@ -83,6 +83,14 @@ Data-driven solutions         Developer tools and automation
 | Project Types | Web apps, mobile apps, desktop tools, ML projects, backend services, and automation |
 | Current Goal | Building stronger end-to-end products and preparing for impactful internship opportunities |
 
+### Contribution Activity
+
+<div align="center">
+  <a href="https://github.com/NazwanSM">
+    <img src="https://ghchart.rshah.org/2f80ed/NazwanSM" alt="Nazwan's GitHub contribution chart" />
+  </a>
+</div>
+
 ---
 
 ## Beyond Code
