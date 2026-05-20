@@ -76,10 +76,12 @@ Data-driven solutions         Developer tools and automation
 
 ## GitHub Overview
 
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=NazwanSM&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" alt="Nazwan's GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NazwanSM&layout=compact&theme=transparent&hide_border=true" alt="Top languages" />
-</div>
+| Focus Area | Highlights |
+|---|---|
+| Primary Direction | AI Engineering, Full Stack Development, Machine Learning, and Data Science |
+| Main Stack | Python, TypeScript, React, Next.js, React Native, FastAPI, Rust, and SQL |
+| Project Types | Web apps, mobile apps, desktop tools, ML projects, backend services, and automation |
+| Current Goal | Building stronger end-to-end products and preparing for impactful internship opportunities |
 
 ---
 
